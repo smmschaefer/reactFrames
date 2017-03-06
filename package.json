@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/smmschaefer/reactFrames.git"
+    "url": "https://github.com/smmschaefer/splashllc.git"
   },
   "author": "Sam Schaefer",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/smmschaefer/reactFrames/issues"
+    "url": "https://github.com/smmschaefer/splashllc/issues"
   },
-  "homepage": "https://github.com/smmschaefer/reactFrames#readme",
+  "homepage": "https://github.com/smmschaefer/splashllc#readme",
   "dependencies": {
     "react": "^15.4.2",
     "react-dom": "^15.4.2",
